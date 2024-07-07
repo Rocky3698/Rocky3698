@@ -33,16 +33,14 @@ Aspiring Full-Stack Developer specializing in backend development with Django Re
 ## Projects
 
 ### Momentscape
-Preview || [Client-Side Code](https://github.com/Rocky3698/MomentScape) || [Server-Side Code](https://github.com/Rocky3698/MomentScape_REST_API)
+[Preview](https://moment-scape.vercel.app/) || [Client-Side Code](https://github.com/Rocky3698/MomentScape) || [Server-Side Code](https://github.com/Rocky3698/MomentScape_REST_API)
 - A social media platform built with Django DRF, React, Tailwind CSS, and SQLite.
 - **Features:** User authentication, content sharing, reactions, comments
-- **Preview:** [MomentScape](https://moment-scape.vercel.app/)
 
 ### FurEver Home
-Preview || [Client-Side Code](https://github.com/Rocky3698/FurEver_Home) || [Server-Side Code](https://github.com/Rocky3698/FurEver_Home_API)
+[Preview](https://fur-ever-home.vercel.app/) || [Client-Side Code](https://github.com/Rocky3698/FurEver_Home) || [Server-Side Code](https://github.com/Rocky3698/FurEver_Home_API)
 - A pet adoption platform using Django DRF, React, and Tailwind CSS. Features role-based access for adopters, shelters, and admins.
 - **Features:** Role-based access, tiered memberships, community features
-- **Preview:** [FurEver Home](https://fur-ever-home.vercel.app/)
 
 ## Connect with Me
 - LinkedIn: [Rocky Chowdhury](https://www.linkedin.com/in/rocky--chowdhury/)
